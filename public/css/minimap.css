@@ -1,0 +1,91 @@
+.img-0011-icon {
+    position: absolute;
+    top: 50px;
+    left: 894px;
+    width: 391px;
+    height: 591px;
+    object-fit: cover;
+    animation: floating-icon 4s ease-in-out infinite;
+}
+
+@keyframes floating-icon {
+
+    0%,
+    100% {
+        transform: translate(0, 0);
+        /* Initial and final position */
+    }
+
+    50% {
+        transform: translate(0, -10px);
+        /* Floating position */
+    }
+}
+
+.sound6972-removebg-preview-1-icon {
+    position: absolute;
+    top: 410px;
+    left: 1150px;
+    width: 27px;
+    height: 34px;
+    object-fit: cover;
+    animation: floating 3s infinite;
+    cursor: pointer;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    50% {
+        transform: translate(0, -10px);
+    }
+
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+.back {
+    position: absolute;
+    top: 4px;
+    right: 50px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-black);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100px;
+    /* Increase width for a larger button */
+    height: 43px;
+    /* Increase height for a larger button */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-size-xl);
+    color: #6e97ff;
+    animation: glowing-border 2s infinite;
+    border: 4px solid rgba(110, 151, 255, 0.4);
+    /* Add initial border */
+    transition: border-color 0.3s;
+    /* Add transition for smooth color change */
+}
+
+.back:hover {
+    border-color: rgba(110, 151, 255, 0.4);
+    /* Change the border color on hover */
+}
+
+@keyframes glowing-border {
+    0% {
+        border-color: rgba(110, 151, 255, 0.4);
+    }
+
+    50% {
+        border-color: rgba(110, 151, 255, 0.8);
+    }
+
+    100% {
+        border-color: rgba(110, 151, 255, 0.4);
+    }
+}

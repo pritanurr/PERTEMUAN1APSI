@@ -1,0 +1,219 @@
+.indonesia-map-png-1-icon,
+.politeknik-subang-2-icon {
+  position: absolute;
+  left: 0;
+  width: 1375px;
+  object-fit: cover;
+}
+.politeknik-subang-2-icon {
+  top: 0;
+  height: 900px;
+  opacity: 0.2;
+}
+.indonesia-map-png-1-icon {
+  top: 183px;
+  height: 590px;
+}
+.politeknik-negeri-subang {
+  margin: 0;
+}
+.virtual-tour-360-container {
+  position: absolute;
+  top: 117px;
+  left: 510px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 545px;
+  height: 181px;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  opacity: 0.4;
+}
+.placeholder-1-icon,
+.right-drawn-arrow-1-1 {
+  position: absolute;
+  top: 515px;
+  left: 303px;
+  width: 128px;
+  height: 145px;
+  object-fit: cover;
+}
+.right-drawn-arrow-1-1 {
+  top: 334.38px;
+  left: 337px;
+  width: 277.96px;
+  height: 295.11px;
+}
+.silahkan-klik-lokasi {
+  position: absolute;
+  top: 265px;
+  left: 307px;
+  text-decoration: underline;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 536px;
+  height: 82px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkred);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 183px;
+  height: 68px;
+}
+.mengerti {
+  position: absolute;
+  top: 13px;
+  left: 19px;
+  display: inline-block;
+  width: 146px;
+  height: 37px;
+}
+.first-inner,
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 183px;
+  height: 68px;
+}
+.first-inner {
+  top: 472px;
+  left: 629px;
+  width: 202px;
+  height: 85px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-gray-900);
+}
+.bar-bawah-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 1407px;
+  height: 151px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 40px;
+  left: 71px;
+  width: 82px;
+  height: 82px;
+  object-fit: cover;
+}
+.informasi-kontak,
+.polsub {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.polsub {
+  top: 46px;
+  left: 132.48px;
+  font-size: var(--font-size-9xl);
+  width: 189.58px;
+  height: 35px;
+}
+.informasi-kontak {
+  top: 12px;
+  left: 417.99px;
+  width: 195.66px;
+  height: 20.74px;
+}
+.kampus-1-jl-container,
+.politeknik-negeri-subang1 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.kampus-1-jl-container {
+  top: 33px;
+  left: 439.69px;
+  font-size: var(--font-size-5xs);
+  width: 287.8px;
+  height: 12px;
+}
+.politeknik-negeri-subang1 {
+  top: 78px;
+  left: 166.74px;
+  width: 241.83px;
+  height: 15.76px;
+}
+.teknik-perawatan-dan {
+  text-decoration: underline;
+}
+.manajemen-informatika-agroindu-container {
+  position: absolute;
+  top: 24px;
+  left: 752.61px;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 178.07px;
+  height: 11.62px;
+}
+.pusat-penelitian-dan {
+  color: inherit;
+}
+.copyright-2023-container,
+.pusat-penelitian-dan-container {
+  position: absolute;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.pusat-penelitian-dan-container {
+  top: 40px;
+  left: 923.91px;
+  text-decoration: underline;
+  width: 178.07px;
+  height: 11.62px;
+}
+.copyright-2023-container {
+  top: 118px;
+  left: 1129.07px;
+  width: 215.2px;
+  height: 12px;
+}
+.jurusan1,
+.pusat {
+  position: absolute;
+  top: 12px;
+  left: 690.94px;
+  display: inline-block;
+  text-align: center;
+  width: 195.66px;
+  height: 20.74px;
+}
+.pusat {
+  left: 906.78px;
+  width: 83.96px;
+  height: 21px;
+}
+.bar-bawah {
+  position: absolute;
+  top: 749px;
+  left: -32px;
+  width: 1407px;
+  height: 151px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.first {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

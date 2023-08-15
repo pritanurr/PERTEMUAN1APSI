@@ -1,0 +1,290 @@
+.edit-kategori-panorama {
+  margin: 0;
+}
+.edit-kategori-panorama-container {
+  position: absolute;
+  top: 87px;
+  left: 345px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 414px;
+  height: 39px;
+}
+.editkadmin-child {
+  position: absolute;
+  top: 251px;
+  left: 32px;
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: var(--color-gray-100);
+  width: 378px;
+  height: 89px;
+}
+.samping-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 298px;
+  height: 1043px;
+}
+.kelola-minimap2 {
+  position: absolute;
+  top: 3px;
+  left: 49px;
+  display: inline-block;
+  width: 248px;
+  height: 39px;
+}
+.location-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 31px;
+  object-fit: cover;
+}
+.kkategori-item,
+.kminimap1 {
+  position: absolute;
+  top: 188px;
+  left: 89px;
+  width: 297px;
+  height: 42px;
+}
+.kkategori-item {
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: var(--color-gray-100);
+  width: 260px;
+  height: 51px;
+}
+.kelola-kategori-panorama-container1 {
+  position: absolute;
+  top: 0;
+  left: 62px;
+  display: inline-block;
+  width: 152px;
+  height: 35.32px;
+}
+.school-1-icon1 {
+  position: absolute;
+  top: 1.81px;
+  left: 13px;
+  width: 38px;
+  height: 46.19px;
+  object-fit: cover;
+}
+.kkategori1 {
+  position: absolute;
+  top: 251px;
+  left: 89px;
+  width: 260px;
+  height: 53px;
+}
+.dashboard2,
+.dashboard3 {
+  position: absolute;
+  height: 32.95px;
+}
+.dashboard3 {
+  top: 0;
+  left: 48px;
+  display: inline-block;
+  width: 157.47px;
+}
+.dashboard2 {
+  top: 126px;
+  left: 89px;
+  width: 205.47px;
+}
+.back-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 160px;
+  height: 41.41px;
+}
+.back-item,
+.back2,
+.back3 {
+  position: absolute;
+}
+.back3 {
+  top: 6.9px;
+  left: 63.53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 76.79px;
+  height: 37.1px;
+}
+.back2 {
+  top: 340px;
+  left: 89px;
+  width: 160px;
+  height: 44px;
+  color: var(--color-gray-100);
+}
+.id-foto-item,
+.samping1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.samping1 {
+  width: 386px;
+  height: 1043px;
+  font-size: var(--font-size-lg);
+}
+.id-foto-item {
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightgray);
+  width: 431px;
+  height: 53px;
+}
+.k001 {
+  top: 10px;
+  left: 26px;
+  display: inline-block;
+  width: 320px;
+  height: 33px;
+}
+.id-foto2,
+.k001,
+.mi {
+  position: absolute;
+}
+.id-foto2 {
+  top: 0;
+  left: 0;
+  width: 431px;
+  height: 53px;
+  color: var(--color-gray-1100);
+}
+.mi {
+  top: 8px;
+  left: 29px;
+  display: inline-block;
+  width: 56px;
+  height: 58px;
+}
+.gedung3,
+.lab-ui {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 431px;
+  height: 66px;
+}
+.lab-ui {
+  top: 9px;
+  left: 27px;
+  display: inline-block;
+  width: 157px;
+  height: 58px;
+}
+.ruangan1,
+.upfoto-inner {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  width: 431px;
+  height: 67px;
+}
+.upfoto-inner {
+  top: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-silver-600);
+  width: 199px;
+  height: 53px;
+}
+.choose-file {
+  position: absolute;
+  top: 6px;
+  left: 26px;
+  display: inline-block;
+  width: 157px;
+  height: 58px;
+}
+.form1,
+.upfoto1 {
+  position: absolute;
+  top: 261px;
+  left: 0;
+  width: 431px;
+  height: 64px;
+}
+.form1 {
+  top: 188px;
+  left: 349px;
+  height: 325px;
+  color: var(--color-black);
+}
+.labuijpg1,
+.upload-your-file {
+  position: absolute;
+  top: 394px;
+  left: 361px;
+  color: var(--color-gray-1200);
+  display: inline-block;
+  width: 284px;
+  height: 39px;
+}
+.labuijpg1 {
+  top: 455px;
+  left: 588px;
+  color: var(--color-blue);
+  width: 124px;
+  height: 37px;
+}
+.ubah-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 431px;
+  height: 46px;
+}
+.ubah-item,
+.ubah2,
+.ubah3 {
+  position: absolute;
+}
+.ubah3 {
+  top: 3px;
+  left: 166.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 97.9px;
+  height: 43px;
+}
+.ubah2 {
+  top: 535px;
+  left: 345px;
+  width: 431px;
+  height: 46px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-100);
+}
+.form-tambah-kategori {
+  position: absolute;
+  top: 126px;
+  left: 310px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 449px;
+  height: 48px;
+}
+.editkadmin {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}

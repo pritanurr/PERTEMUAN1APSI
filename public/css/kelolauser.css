@@ -1,0 +1,774 @@
+.kelola-user8 {
+    margin: 0;
+}
+
+
+
+
+.kelola-user7 {
+    position: absolute;
+    top: 87px;
+    left: 376px;
+    font-weight: 600;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.kelola-user-child {
+    position: absolute;
+    top: 251px;
+    left: 32px;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 378px;
+    height: 89px;
+}
+
+.tabel-child,
+.tabel-item {
+    position: absolute;
+    top: 0;
+    left: 4.65px;
+    width: 697.36px;
+}
+
+.tabel-child {
+    border-radius: var(--br-11xl);
+    background-color: rgba(217, 217, 217, 0.73);
+    height: 580.38px;
+}
+
+.tabel-item {
+    border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+    background-color: var(--color-midnightblue);
+    height: 98.1px;
+}
+
+.tabel-child1,
+.tabel-child2,
+.tabel-inner {
+    position: absolute;
+    top: 182.19px;
+    left: 0;
+    background-color: var(--color-gray-1000);
+    width: 707.45px;
+    height: 88.21px;
+}
+
+.tabel-child1,
+.tabel-child2 {
+    top: 354.49px;
+    width: 708.22px;
+}
+
+.tabel-child2 {
+    top: 526.79px;
+    width: 709px;
+}
+
+.nama4,
+.no {
+    position: absolute;
+    display: inline-block;
+    height: 32.15px;
+}
+
+.no {
+    top: 32.98px;
+    left: 41.11px;
+    font-size: var(--font-size-16xl);
+    color: var(--color-gray-100);
+    width: 48.87px;
+}
+
+.nama4 {
+    left: 121.01px;
+    width: 91.53px;
+}
+
+.asal-kota4,
+.email7,
+.nama4 {
+    top: 32.98px;
+    font-size: var(--font-size-16xl);
+    color: var(--color-gray-100);
+}
+
+.email7 {
+    position: absolute;
+    left: 281.58px;
+    display: inline-block;
+    width: 91.53px;
+    height: 32.15px;
+}
+
+.asal-kota4 {
+    left: 432.07px;
+    width: 153.59px;
+}
+
+.aksi,
+.asal-kota4,
+.div,
+.ice123gmailcom1,
+.ice3 {
+    position: absolute;
+    display: inline-block;
+    height: 32.15px;
+}
+
+.aksi {
+    top: 33.8px;
+    left: 610.48px;
+    font-size: var(--font-size-16xl);
+    color: var(--color-gray-100);
+    width: 64.38px;
+}
+
+.div,
+.ice123gmailcom1,
+.ice3 {
+    top: 123.66px;
+    left: 55.08px;
+    width: 15.51px;
+}
+
+.ice123gmailcom1,
+.ice3 {
+    left: 121.01px;
+    width: 91.53px;
+}
+
+.ice123gmailcom1 {
+    top: 125.31px;
+    left: 238.14px;
+    width: 193.93px;
+}
+
+.bekasi2,
+.bekasi3,
+.bekasi4,
+.bekasi5,
+.bekasi6,
+.bekasi7 {
+    position: absolute;
+    top: 126.96px;
+    left: 451.46px;
+    display: inline-block;
+    width: 121.79px;
+    height: 32.15px;
+}
+
+.bekasi3,
+.bekasi4,
+.bekasi5,
+.bekasi6,
+.bekasi7 {
+    top: 213.52px;
+    left: 450.69px;
+}
+
+.bekasi4,
+.bekasi5,
+.bekasi6,
+.bekasi7 {
+    top: 298.43px;
+}
+
+.bekasi5,
+.bekasi6,
+.bekasi7 {
+    top: 384.99px;
+    left: 451.46px;
+}
+
+.bekasi6,
+.bekasi7 {
+    top: 471.56px;
+    left: 450.69px;
+}
+
+.bekasi7 {
+    top: 551.52px;
+    left: 451.46px;
+}
+
+.ice123gmailcom2,
+.ice123gmailcom3,
+.ice123gmailcom4,
+.ice123gmailcom5,
+.ice123gmailcom6 {
+    position: absolute;
+    top: 211.87px;
+    left: 238.14px;
+    display: inline-block;
+    width: 193.93px;
+    height: 32.15px;
+}
+
+.ice123gmailcom3,
+.ice123gmailcom4,
+.ice123gmailcom5,
+.ice123gmailcom6 {
+    top: 298.43px;
+}
+
+.ice123gmailcom4,
+.ice123gmailcom5,
+.ice123gmailcom6 {
+    top: 384.99px;
+}
+
+.ice123gmailcom5,
+.ice123gmailcom6 {
+    top: 471.56px;
+}
+
+.ice123gmailcom6 {
+    top: 548.22px;
+}
+
+.bulan,
+.bunga,
+.cinta,
+.ditto,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.juice {
+    position: absolute;
+    top: 209.4px;
+    left: 121.01px;
+    display: inline-block;
+    width: 91.53px;
+    height: 32.15px;
+}
+
+.bulan,
+.bunga,
+.cinta,
+.ditto,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 295.96px;
+}
+
+.bulan,
+.bunga,
+.ditto,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 382.52px;
+}
+
+.bunga,
+.ditto,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 468.26px;
+}
+
+.ditto,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 548.22px;
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 209.4px;
+    left: 55.08px;
+    width: 15.51px;
+}
+
+.div2,
+.div3,
+.div4,
+.div5 {
+    top: 295.96px;
+}
+
+.div3,
+.div4,
+.div5 {
+    top: 382.52px;
+    left: 54.3px;
+    width: 24.82px;
+}
+
+.div4,
+.div5 {
+    top: 468.26px;
+}
+
+.div5 {
+    top: 548.22px;
+}
+
+.delete-1-icon,
+.delete-2-icon1,
+.delete-3-icon,
+.delete-4-icon,
+.delete-5-icon,
+.delete-6-icon {
+    position: absolute;
+    top: 120.36px;
+    left: 656.25px;
+    width: 36.46px;
+    height: 38.75px;
+    object-fit: cover;
+}
+
+.delete-2-icon1,
+.delete-3-icon,
+.delete-4-icon,
+.delete-5-icon,
+.delete-6-icon {
+    top: 205.27px;
+}
+
+.delete-3-icon,
+.delete-4-icon,
+.delete-5-icon,
+.delete-6-icon {
+    top: 291.84px;
+}
+
+.delete-4-icon,
+.delete-5-icon,
+.delete-6-icon {
+    top: 375.1px;
+}
+
+.delete-5-icon,
+.delete-6-icon {
+    top: 460.01px;
+}
+
+.delete-6-icon {
+    top: 535.86px;
+}
+
+.edit-1-icon,
+.edit-2-icon,
+.edit-3-icon,
+.edit-4-icon,
+.edit-5-icon,
+.edit-6-icon {
+    position: absolute;
+    top: 126.96px;
+    left: 581.78px;
+    width: 28.7px;
+    height: 30.5px;
+    object-fit: cover;
+}
+
+.edit-2-icon,
+.edit-3-icon,
+.edit-4-icon,
+.edit-5-icon,
+.edit-6-icon {
+    top: 213.52px;
+}
+
+.edit-3-icon,
+.edit-4-icon,
+.edit-5-icon,
+.edit-6-icon {
+    top: 296.78px;
+}
+
+.edit-4-icon,
+.edit-5-icon,
+.edit-6-icon {
+    top: 383.34px;
+}
+
+.edit-5-icon,
+.edit-6-icon {
+    top: 464.14px;
+}
+
+.edit-6-icon {
+    top: 544.1px;
+}
+
+.image-removebg-preview-5-1,
+.image-removebg-preview-5-2,
+.image-removebg-preview-5-3 {
+    position: absolute;
+    top: 126.96px;
+    left: 615.92px;
+    width: 34.91px;
+    height: 32.15px;
+    object-fit: cover;
+}
+
+.image-removebg-preview-5-2,
+.image-removebg-preview-5-3 {
+    top: 211.87px;
+}
+
+.image-removebg-preview-5-3 {
+    top: 296.78px;
+}
+
+.image-removebg-preview-5-4,
+.image-removebg-preview-5-5,
+.image-removebg-preview-5-6 {
+    position: absolute;
+    top: 381.7px;
+    left: 615.92px;
+    width: 34.91px;
+    height: 32.15px;
+    object-fit: cover;
+}
+
+.image-removebg-preview-5-5,
+.image-removebg-preview-5-6 {
+    top: 466.61px;
+}
+
+.image-removebg-preview-5-6 {
+    top: 542.45px;
+}
+
+.tabel {
+    position: absolute;
+    top: 157px;
+    left: 376px;
+    width: 709px;
+    height: 615px;
+    font-size: var(--font-size-6xl);
+}
+
+.samping-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-dimgray);
+    width: 298px;
+    height: 983px;
+}
+
+.kelola-minimap6 {
+    position: absolute;
+    top: 3px;
+    left: 49px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.kelola-minimap6 {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 152px;
+    height: 35.32px;
+}
+
+.kelola-minimap6:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.location-1-icon3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.kminimap3 {
+    position: absolute;
+    top: 210px;
+    left: 89px;
+    width: 297px;
+    height: 42px;
+}
+
+.kelola-kategori-panorama-container3 {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 152px;
+    height: 35.32px;
+}
+
+.kelola-kategori-panorama-container3:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.school-1-icon3 {
+    position: absolute;
+    top: 1.81px;
+    left: 0;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.kkategori3 {
+    position: absolute;
+    top: 274px;
+    left: 89px;
+    width: 201px;
+    height: 48px;
+}
+
+.kelola-respon-ketertarikan3 {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 135px;
+    height: 39px;
+}
+
+.school-1-icon {
+    position: absolute;
+    top: 1.81px;
+    left: 0;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.button-like {
+    border: none;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    text-align: inherit;
+    font: inherit;
+    color: inherit;
+}
+
+.button-like:focus {
+    outline: none;
+}
+
+.krespon {
+    position: absolute;
+    top: 354px;
+    left: 89px;
+    width: 184px;
+    height: 43px;
+}
+
+.kelola-respon-ketertarikan {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 135px;
+    height: 39px;
+}
+
+.kelola-respon-ketertarikan:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.registration-form-1-icon3 {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 38px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.dashboard7,
+.krespon3 {
+    position: absolute;
+    top: 354px;
+    left: 89px;
+    width: 184px;
+    height: 43px;
+}
+
+.dashboard7 {
+    top: 0;
+    left: 48px;
+    display: inline-block;
+    width: 157.47px;
+    height: 32.95px;
+}
+
+.dashboard7:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.dashboard6,
+.kuser-inner {
+    position: absolute;
+    top: 66px;
+    left: 89px;
+    width: 205.47px;
+    height: 32.95px;
+}
+
+.kuser-inner {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 260px;
+    height: 51px;
+}
+
+.kelola-user9 {
+    position: absolute;
+    top: 14px;
+    left: 72px;
+    display: inline-block;
+    width: 207.32px;
+    height: 31.11px;
+}
+
+.users-1-icon3 {
+    position: absolute;
+    top: 10px;
+    left: 23px;
+    width: 38px;
+    height: 32px;
+    object-fit: cover;
+}
+
+.kuser3 {
+    position: absolute;
+    top: 129px;
+    left: 66px;
+    width: 279.32px;
+    height: 51px;
+}
+
+.back-child1 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    width: 204px;
+    height: 48px;
+}
+
+.back-child1,
+.back6,
+.back7 {
+    position: absolute;
+}
+
+.back9 {
+    top: 8px;
+    left: 81px;
+    font-weight: 600;
+    display: inline-block;
+    width: 97.9px;
+    height: 43px;
+}
+
+.back1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.back1 a:hover {
+    text-decoration: underline;
+}
+
+.back7 {
+    top: 8px;
+    left: 71px;
+    font-weight: 600;
+    display: inline-block;
+    width: 97.9px;
+    height: 43px;
+}
+
+.back6 {
+    top: 425px;
+    left: 69px;
+    width: 204px;
+    height: 51px;
+    color: var(--color-gray-100);
+}
+
+.samping3 {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 386px;
+    height: 983px;
+    font-size: var(--font-size-lg);
+}
+
+.kelola-user6 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-4xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-poppins);
+}
+
+.table {
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #140161;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}

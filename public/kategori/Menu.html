@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Menu.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="menu">
+      <img
+        class="politeknik-subang-1-icon"
+        alt=""
+        src="./public/politekniksubang-1@2x.png"
+      />
+
+      <img
+        class="indonesia-map-png-1-icon"
+        alt=""
+        src="./public/3753751168-indonesiamappng-1@2x.png"
+      />
+
+      <img class="image-1-icon1" alt="" src="./public/image-11@2x.png" />
+
+      <div class="virtual-tour-360-container">
+        <p class="politeknik-negeri-subang">VIRTUAL TOUR 360 KAMPUS</p>
+        <p class="politeknik-negeri-subang">POLITEKNIK NEGERI SUBANG</p>
+      </div>
+      <div class="menu-child"></div>
+      <div class="pusat-penelitian-dan-container">
+        <p class="politeknik-negeri-subang">
+          <a
+            class="pusat-penelitian-dan"
+            href="https://p3m.polsub.ac.id/"
+            target="_blank"
+            >Pusat Penelitian dan Pengabdian Kepada Masyarakat</a
+          >
+        </p>
+        <p class="politeknik-negeri-subang">
+          <a
+            class="pusat-penelitian-dan"
+            href="https://p4mp.polsub.ac.id/"
+            target="_blank"
+            >Pusat Pengembangan Pembelajaran dan Penjaminan Mutu Pendidikan</a
+          >
+        </p>
+      </div>
+      <div class="kategori">
+        <div class="kategori-child"></div>
+        <div class="kategori-panorama">Kategori Panorama</div>
+        <div class="frame-div" id="frameContainer">
+          <div class="frame-child"></div>
+          <div class="go">GO!</div>
+        </div>
+      </div>
+      <div class="kategori1">
+        <div class="kategori-child"></div>
+        <div class="kategori-panorama">Minimap Panorama</div>
+        <div class="frame-div" id="frameContainer1">
+          <div class="frame-child"></div>
+          <div class="go">GO!</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var frameContainer = document.getElementById("frameContainer");
+      if (frameContainer) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "./Kategori.html";
+        });
+      }
+      
+      var frameContainer1 = document.getElementById("frameContainer1");
+      if (frameContainer1) {
+        frameContainer1.addEventListener("click", function (e) {
+          window.location.href = "./Kategori.html";
+        });
+      }
+      </script>
+  </body>
+</html>

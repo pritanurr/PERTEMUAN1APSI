@@ -1,0 +1,310 @@
+.indonesia-map-png-1-icon {
+  position: absolute;
+  top: -222px;
+  left: -826px;
+  width: 1300px;
+  height: 475px;
+  object-fit: cover;
+  mix-blend-mode: exclusion;
+}
+.indonesia-map-png-1-wrapper {
+  position: absolute;
+  top: 650px;
+  left: 826px;
+  width: 177px;
+  height: 62px;
+  mix-blend-mode: luminosity;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-700);
+  border: 2px solid var(--color-skyblue);
+  box-sizing: border-box;
+  width: 159px;
+  height: 62px;
+}
+.kirim {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  font-weight: 800;
+  display: inline-block;
+  width: 108.41px;
+  height: 39px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 606px;
+  left: 723px;
+  width: 159px;
+  height: 62px;
+  color: var(--color-black);
+}
+.respon-ketertarikan1 {
+  position: absolute;
+  top: 117px;
+  left: 347px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 559px;
+  height: 39px;
+}
+.speech-bubble-1-icon {
+  position: absolute;
+  top: 106px;
+  left: 965px;
+  width: 143px;
+  height: 122px;
+  object-fit: cover;
+}
+.isi-dulu-yaa {
+  margin: 0;
+}
+.isi-dulu-yaa-container {
+  position: absolute;
+  top: 122px;
+  left: 997px;
+  font-weight: 600;
+  display: inline-block;
+  width: 111px;
+  height: 39px;
+}
+.nama-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 163px;
+  height: 53px;
+}
+.nama1 {
+  position: absolute;
+  top: 10px;
+  left: 44px;
+  font-weight: 600;
+  display: inline-block;
+  width: 83px;
+  height: 35px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 403px;
+  height: 53px;
+}
+.nama-lengkap {
+  position: absolute;
+  top: 10px;
+  left: 45px;
+  font-weight: 600;
+  display: inline-block;
+  width: 265.01px;
+  height: 35.23px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 213px;
+  width: 403px;
+  height: 53px;
+  color: var(--color-silver-100);
+}
+.ketjurusan-child,
+.nama {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 616px;
+  height: 53px;
+}
+.ketjurusan-child {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 163px;
+  height: 63px;
+}
+.agorindustri,
+.keperawatan,
+.manajemen-informatika,
+.teknik-pemeliharaan-mesin {
+  position: absolute;
+  top: 0;
+  left: 43.1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 162.31px;
+  height: 35.23px;
+}
+.agorindustri,
+.keperawatan,
+.teknik-pemeliharaan-mesin {
+  top: 0.9px;
+  left: 199.9px;
+  width: 121.96px;
+}
+.agorindustri,
+.keperawatan {
+  top: 9.03px;
+  left: 370.46px;
+}
+.keperawatan {
+  top: 5.42px;
+  left: 528.19px;
+}
+.jurusan-child {
+  top: 6.32px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan-child,
+.jurusan-inner,
+.jurusan-item,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  width: 32.09px;
+  height: 25.29px;
+}
+.jurusan-item {
+  top: 6.32px;
+  left: 156.81px;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan-inner,
+.rectangle-div {
+  top: 9.03px;
+  left: 327.37px;
+}
+.rectangle-div {
+  top: 3.61px;
+  left: 485.09px;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan {
+  position: absolute;
+  top: 10px;
+  left: 224px;
+  width: 650.15px;
+  height: 44.26px;
+}
+.ketertarikan-jurusan {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  text-align: center;
+  display: inline-block;
+  width: 185.23px;
+  height: 35.23px;
+}
+.ketjurusan {
+  position: absolute;
+  top: 161px;
+  left: 0;
+  width: 874.15px;
+  height: 63px;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver-100);
+}
+.rate-child {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 163px;
+  height: 53px;
+}
+.rate-item,
+.rating {
+  position: absolute;
+  top: 6px;
+  left: 216px;
+  width: 267.76px;
+  height: 42.45px;
+}
+.rating {
+  top: 9px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 185.23px;
+  height: 35.23px;
+}
+.asal-kota-child,
+.rate {
+  position: absolute;
+  height: 53px;
+}
+.rate {
+  top: 258px;
+  left: 1px;
+  width: 483.76px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.asal-kota-child {
+  top: 1px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 163px;
+}
+.asal-kota1,
+.asal-mana-kamu {
+  position: absolute;
+  top: 9.12px;
+  left: 17px;
+  font-weight: 600;
+  display: inline-block;
+  width: 174.23px;
+  height: 35.23px;
+}
+.asal-mana-kamu {
+  top: 9px;
+  left: 45px;
+  width: 265.01px;
+}
+.asal-kota {
+  position: absolute;
+  top: 79px;
+  left: 11px;
+  width: 616px;
+  height: 54px;
+}
+.image-1-icon,
+.resp {
+  position: absolute;
+  top: 228px;
+  left: 209px;
+  width: 874.15px;
+  height: 311px;
+}
+.image-1-icon {
+  top: 42px;
+  left: 57px;
+  width: 124px;
+  height: 124px;
+  object-fit: cover;
+}
+.respon-ketertarikan {
+  position: relative;
+  background-color: var(--color-midnightblue);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}

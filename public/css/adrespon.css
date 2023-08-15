@@ -1,0 +1,408 @@
+.kelola-kategori-panorama4 {
+    margin: 0;
+}
+
+.kelola-kategori-panorama4:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.kelolakategoripanorama {
+    position: absolute;
+    top: 10px;
+    left: 65px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.kelolakategoripanorama:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.kelola-kategori-panorama-container4 {
+    position: absolute;
+    top: 87px;
+    left: 345px;
+    font-weight: 600;
+    display: inline-block;
+    width: 414px;
+    height: 39px;
+}
+
+.kkategori-inner {
+    position: absolute;
+    top: 251px;
+    left: 32px;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 378px;
+    height: 89px;
+}
+
+.samping-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-dimgray);
+    width: 298px;
+    height: 1043px;
+}
+
+.kelola-minimap8 {
+    position: absolute;
+    top: 3px;
+    left: 49px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.location-1-icon4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.kminimap4 {
+    position: absolute;
+    top: 270px;
+    left: 89px;
+    width: 297px;
+    height: 42px;
+}
+
+.tabel,
+.tabel-child,
+.tabel-item {
+    position: absolute;
+    width: 648px;
+}
+
+.tabel-item {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+    background-color: var(--color-midnightblue);
+    height: 76px;
+}
+
+.tabel {
+    top: 143px;
+    left: 336px;
+    height: 462px;
+}
+
+.kkategori-child1 {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 260px;
+    height: 51px;
+}
+
+.kelola-kategori-panorama-container5 {
+    position: absolute;
+    top: 0;
+    left: 62px;
+    display: inline-block;
+    width: 152px;
+    height: 35.32px;
+}
+
+.school-1-icon4 {
+    position: absolute;
+    top: 1.81px;
+    left: 13px;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.kkategori5 {
+    position: absolute;
+    top: 190px;
+    left: 76px;
+    width: 260px;
+    height: 53px;
+}
+
+.kelola-respon-ketertarikan4 {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 135px;
+    height: 39px;
+}
+
+.registration-form-1-icon4 {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 38px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.dashboard9,
+.krespon4 {
+    position: absolute;
+    top: 414px;
+    left: 89px;
+    width: 184px;
+    height: 43px;
+}
+
+.dashboard9 {
+    top: 0;
+    left: 48px;
+    display: inline-block;
+    width: 157.47px;
+    height: 32.95px;
+}
+
+.dashboard9:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+.dashboard8,
+.kelola-user8 {
+    position: absolute;
+    top: 126px;
+    left: 89px;
+    width: 205.47px;
+    height: 32.95px;
+}
+
+.kelola-user8 {
+    top: 4px;
+    left: 49px;
+    display: inline-block;
+    width: 207.32px;
+    height: 31.11px;
+}
+
+.users-1-icon4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 32px;
+    object-fit: cover;
+}
+
+.kuser4 {
+    position: absolute;
+    top: 199px;
+    left: 89px;
+    width: 256.32px;
+    height: 35.11px;
+}
+
+.back-child1 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    width: 204px;
+    height: 48px;
+}
+
+.back-child1,
+.back8,
+.back9 {
+    position: absolute;
+}
+
+.back9 {
+    top: 8px;
+    left: 81px;
+    font-weight: 600;
+    display: inline-block;
+    width: 97.9px;
+    height: 43px;
+}
+
+.kelola-respon-ketertarikan {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 135px;
+    height: 39px;
+    font-weight: bold;
+}
+
+
+
+.registration-form-1-icon {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 38px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.school-1-icon {
+    position: absolute;
+    top: 1.81px;
+    left: 0;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.krespon {
+    position: absolute;
+    top: 290px;
+    left: 89px;
+    width: 184px;
+    height: 43px;
+}
+
+
+
+.back8 {
+    top: 395px;
+    left: 69px;
+    width: 204px;
+    height: 51px;
+    color: var(--color-gray-100);
+}
+
+.samping4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 386px;
+    height: 1043px;
+    font-size: var(--font-size-lg);
+}
+
+.kkategori-child2,
+.kkategori-child3 {
+    position: absolute;
+    top: 143px;
+    left: 336px;
+    width: 648px;
+}
+
+.kkategori-child2 {
+    border-radius: var(--br-11xl);
+    background-color: rgba(217, 217, 217, 0.73);
+    height: 442px;
+}
+
+.kkategori-child3 {
+    border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+    background-color: var(--color-midnightblue);
+    height: 56px;
+}
+
+.kkategori-child4,
+.kkategori-child5,
+.kkategori-child6 {
+    position: absolute;
+    top: 515px;
+    left: 322px;
+    background-color: var(--color-gray-1000);
+    width: 662px;
+    height: 70px;
+}
+
+.kkategori-child5,
+.kkategori-child6 {
+    top: 362px;
+    left: 329px;
+}
+
+.kkategori-child6 {
+    top: 209px;
+    left: 336px;
+}
+
+.edit-2-icon,
+.image-removebg-preview-5-1 {
+    position: absolute;
+    top: 668px;
+    left: 954px;
+    width: 37px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.image-removebg-preview-5-1 {
+    top: 685px;
+    left: 998px;
+    width: 45px;
+    height: 39px;
+}
+
+.kkategori4 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-4xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-poppins);
+}
+
+.kminimap-child {
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 260px;
+    height: 51px;
+    margin-left: -15px;
+}
+
+.data-visitor {
+    position: absolute;
+    top: 12px;
+    left: 77px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+    font-weight: normal;
+}
+
+.data-visitor:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+
+.location-1-icon {
+    position: absolute;
+    top: 9px;
+    left: 28px;
+    width: 38px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.kminimap {
+    position: absolute;
+    top: 261px;
+    left: 61px;
+    width: 325px;
+    height: 51px;
+}

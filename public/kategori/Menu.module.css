@@ -1,0 +1,133 @@
+.politeknik-subang-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1494px;
+  height: 1086px;
+  object-fit: cover;
+  opacity: 0.2;
+}
+.image-1-icon1,
+.indonesia-map-png-1-icon {
+  position: absolute;
+  top: 219px;
+  left: 0;
+  width: 1349px;
+  height: 506px;
+  object-fit: cover;
+}
+.image-1-icon1 {
+  top: 55px;
+  left: 609px;
+  width: 81px;
+  height: 81px;
+}
+.politeknik-negeri-subang {
+  margin: 0;
+}
+.virtual-tour-360-container {
+  position: absolute;
+  top: 158px;
+  left: 420px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 696px;
+  height: 143px;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+.menu-child {
+  position: absolute;
+  top: 1128px;
+  left: 1222px;
+  background-color: var(--color-midnightblue);
+  width: 1280px;
+  height: 182px;
+}
+.pusat-penelitian-dan {
+  color: inherit;
+}
+.pusat-penelitian-dan-container {
+  position: absolute;
+  top: 401px;
+  left: 1222px;
+  font-size: var(--font-size-6xs);
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 162px;
+  height: 14px;
+}
+.kategori-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-midnightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 245px;
+  height: 279px;
+}
+.kategori-panorama {
+  position: absolute;
+  top: 47px;
+  left: 26px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188.72px;
+  height: 61.21px;
+}
+.frame-child {
+  top: 59px;
+  left: 33px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-gainsboro-100);
+  width: 127px;
+  height: 53px;
+}
+.frame-child,
+.frame-div,
+.go {
+  position: absolute;
+}
+.go {
+  top: 59px;
+  left: -17px;
+  font-weight: 600;
+  display: inline-block;
+  width: 228px;
+  height: 77px;
+}
+.frame-div {
+  top: 105px;
+  left: 26px;
+  width: 173px;
+  height: 69px;
+  cursor: pointer;
+  color: var(--color-gray-400);
+}
+.kategori,
+.kategori1 {
+  position: absolute;
+  top: 326px;
+  left: 321px;
+  width: 245px;
+  height: 279px;
+  text-align: center;
+}
+.kategori1 {
+  left: 715px;
+}
+.menu {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 849px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

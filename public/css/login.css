@@ -1,0 +1,366 @@
+.politeknik-subang-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1300px;
+    height: 900px;
+    object-fit: cover;
+    opacity: 0.3;
+}
+
+.image-1-icon1 {
+    position: absolute;
+    top: 144px;
+    left: 268px;
+    width: 222px;
+    height: 222px;
+    object-fit: cover;
+}
+
+.politeknik-negeri-subang {
+    margin: 0;
+}
+
+.virtual-tour-360-container {
+    position: absolute;
+    top: 403px;
+    left: 141px;
+    font-size: var(--font-size-16xl);
+    display: inline-block;
+    color: var(--color-gray-300);
+    width: 518px;
+    height: 107px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.group-child1,
+.rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: -4px;
+    border-radius: var(--br-21xl);
+    width: 304px;
+    height: 366px;
+}
+
+.group-child1 {
+    left: 0;
+    width: 210px;
+    height: 38.08px;
+}
+
+.email {
+    position: absolute;
+    top: 4.19px;
+    left: 31.62px;
+    display: inline-block;
+    width: 67.71px;
+    height: 29.72px;
+}
+
+.group-div,
+.password {
+    position: absolute;
+    top: 130px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+.password {
+    top: 4.19px;
+    left: 32px;
+    display: inline-block;
+    width: 121px;
+    height: 29.3px;
+}
+
+.rectangle-parent1 {
+    position: absolute;
+    top: 201px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+.rectangle-parent2 {
+    position: absolute;
+    top: 217px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+.rectangleakses {
+    position: absolute;
+    top: 15px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+.buttonlogin {
+    position: absolute;
+    top: 15px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+.selamat-datang {
+    position: absolute;
+    top: 275px;
+    left: 43px;
+    width: 210px;
+    height: 38.08px;
+}
+
+
+.selamat-datang {
+    top: 00px;
+}
+
+.selamat-datang {
+    top: 60px;
+    left: 50px;
+    font-size: var(--font-size-lg);
+    font-weight: 500;
+    color: var(--color-midnightblue);
+    text-align: center;
+    display: inline-block;
+    width: 195px;
+    height: 47.44px;
+}
+
+.group-child4 {
+    position: absolute;
+    top: 180;
+    left: 43;
+    border-radius: var(--br-41xl);
+    width: 210px;
+    height: 48.84px;
+}
+
+.login1 {
+    position: absolute;
+    top: 187px;
+    left: 113px;
+    font-weight: 600;
+    display: inline-block;
+    width: 61px;
+    height: 43.96px;
+}
+
+.vector-group {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    width: 210px;
+    height: 48.84px;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-100);
+}
+
+.vector-parent {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    width: 210px;
+    height: 48.84px;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-100);
+}
+
+.vector-parent {
+    top: 172px;
+    left: 811px;
+    width: 296px;
+    height: 358px;
+    font-size: var(--font-size-mid);
+    color: var(--color-silver-300);
+}
+
+.bar-bawah-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-midnightblue);
+    width: 1332px;
+    height: 151px;
+}
+
+.image-3-icon {
+    position: absolute;
+    top: 40px;
+    left: 67.03px;
+    width: 77.84px;
+    height: 72px;
+    object-fit: cover;
+}
+
+.informasi-kontak,
+.polsub {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+}
+
+.polsub {
+    top: 46px;
+    left: 125.42px;
+    font-size: var(--font-size-9xl);
+    width: 179.47px;
+    height: 35px;
+}
+
+.informasi-kontak {
+    top: 12px;
+    left: 395.71px;
+    width: 185.23px;
+    height: 20.74px;
+}
+
+.kampus-1-jl-container,
+.politeknik-negeri-subang1 {
+    position: absolute;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.kampus-1-jl-container {
+    top: 33px;
+    left: 416.25px;
+    font-size: var(--font-size-5xs);
+    width: 272.45px;
+    height: 12px;
+}
+
+.politeknik-negeri-subang1 {
+    top: 78px;
+    left: 157.85px;
+    width: 228.94px;
+    height: 15.76px;
+}
+
+.teknik-perawatan-dan {
+    text-decoration: underline;
+}
+
+.manajemen-informatika-agroindu-container {
+    position: absolute;
+    top: 24px;
+    left: 712.49px;
+    font-size: var(--font-size-5xs);
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+    width: 168.58px;
+    height: 11.62px;
+}
+
+.pusat-penelitian-dan {
+    color: inherit;
+}
+
+.copyright-2023-container,
+.pusat-penelitian-dan-container {
+    position: absolute;
+    font-size: var(--font-size-5xs);
+    font-weight: 500;
+    color: inherit;
+    display: inline-block;
+}
+
+.pusat-penelitian-dan-container {
+    top: 40px;
+    left: 874.67px;
+    text-decoration: underline;
+    width: 168.58px;
+    height: 11.62px;
+}
+
+.copyright-2023-container {
+    top: 118px;
+    left: 1068.89px;
+    width: 203.73px;
+    height: 12px;
+}
+
+.jurusan1,
+.pusat {
+    position: absolute;
+    top: 12px;
+    left: 654.11px;
+    display: inline-block;
+    text-align: center;
+    width: 185.23px;
+    height: 20.74px;
+}
+
+.pusat {
+    left: 858.45px;
+    width: 79.48px;
+    height: 21px;
+}
+
+.bar-bawah {
+    position: absolute;
+    top: 749px;
+    left: -32px;
+    width: 1332px;
+    height: 151px;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+}
+
+.belum-punya-akun,
+.lupa-password,
+.registrasi {
+    position: absolute;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.lupa-password {
+    top: 419px;
+    left: 979px;
+    font-size: var(--font-size-5xs);
+    width: 77px;
+    height: 19px;
+}
+
+.belum-punya-akun,
+.registrasi {
+    top: 478px;
+    left: 912px;
+    width: 95px;
+    height: 17px;
+}
+
+.registrasi {
+    top: 0;
+    left: 0;
+    font-weight: 800;
+    width: 98px;
+    height: 25px;
+}
+
+.registrasi-wrapper {
+    position: absolute;
+    top: 479px;
+    left: 1010px;
+    width: 54px;
+    height: 17px;
+}
+
+.login {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-4xs);
+    color: var(--color-gray-200);
+    font-family: var(--font-poppins);
+}

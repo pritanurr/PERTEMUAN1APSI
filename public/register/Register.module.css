@@ -1,0 +1,280 @@
+.politeknik-subang-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 900px;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 144px;
+  left: 268px;
+  width: 222px;
+  height: 222px;
+  object-fit: cover;
+}
+.politeknik-negeri-subang {
+  margin: 0;
+}
+.virtual-tour-360-container {
+  position: absolute;
+  top: 403px;
+  left: 141px;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 518px;
+  height: 107px;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+.bar-bawah-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 1232px;
+  height: 151px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 40px;
+  left: 62px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.informasi-kontak,
+.polsub {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.polsub {
+  top: 46px;
+  left: 116px;
+  font-size: var(--font-size-9xl);
+  width: 166px;
+  height: 35px;
+}
+.informasi-kontak {
+  top: 12px;
+  left: 366px;
+  width: 171.32px;
+  height: 20.74px;
+}
+.kampus-1-jl-container,
+.politeknik-negeri-subang1 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.kampus-1-jl-container {
+  top: 33px;
+  left: 385px;
+  font-size: var(--font-size-5xs);
+  width: 252px;
+  height: 12px;
+}
+.politeknik-negeri-subang1 {
+  top: 78px;
+  left: 146px;
+  width: 211.75px;
+  height: 15.76px;
+}
+.teknik-perawatan-dan {
+  text-decoration: underline;
+}
+.manajemen-informatika-agroindu-container {
+  position: absolute;
+  top: 24px;
+  left: 659px;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 155.93px;
+  height: 11.62px;
+}
+.pusat-penelitian-dan {
+  color: inherit;
+}
+.copyright-2023-container,
+.pusat-penelitian-dan-container {
+  position: absolute;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.pusat-penelitian-dan-container {
+  top: 40px;
+  left: 809px;
+  text-decoration: underline;
+  width: 155.93px;
+  height: 11.62px;
+}
+.copyright-2023-container {
+  top: 118px;
+  left: 988.64px;
+  width: 188.43px;
+  height: 12px;
+}
+.jurusan1,
+.pusat {
+  position: absolute;
+  top: 12px;
+  left: 605px;
+  display: inline-block;
+  text-align: center;
+  width: 171.32px;
+  height: 20.74px;
+}
+.pusat {
+  left: 794px;
+  width: 73.51px;
+  height: 21px;
+}
+.bar-bawah {
+  position: absolute;
+  top: 749px;
+  left: -32px;
+  width: 1232px;
+  height: 151px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.group-child1,
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-21xl);
+  width: 304px;
+  height: 421px;
+}
+.group-child1 {
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightgray);
+  width: 210px;
+  height: 27.29px;
+}
+.email {
+  position: absolute;
+  top: 3px;
+  left: 31.62px;
+  display: inline-block;
+  width: 67.71px;
+  height: 21.3px;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  top: 91px;
+  left: 50px;
+  width: 210px;
+  height: 27.29px;
+}
+.rectangle-parent1 {
+  top: 138px;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 185px;
+  left: 50px;
+  width: 210px;
+  height: 27.29px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  top: 232px;
+}
+.rectangle-parent4 {
+  top: 279px;
+}
+.silahkan-buat-akun-container {
+  position: absolute;
+  top: 15.31px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  text-align: center;
+  display: inline-block;
+  width: 339.64px;
+  height: 49.26px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 210px;
+  height: 40px;
+}
+.registrasi {
+  position: absolute;
+  top: 4px;
+  left: 53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 133px;
+  height: 43px;
+}
+.vector-group,
+.vector-parent {
+  position: absolute;
+  top: 326px;
+  left: 44px;
+  width: 210px;
+  height: 47px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.vector-parent {
+  top: 144px;
+  left: 762px;
+  width: 339.64px;
+  height: 413px;
+  font-size: var(--font-size-mid);
+  color: var(--color-silver-300);
+}
+.login,
+.sudah-punya-akun {
+  position: absolute;
+  top: 517px;
+  left: 859px;
+  font-weight: 500;
+  display: inline-block;
+  width: 95px;
+  height: 17px;
+}
+.login {
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  width: 98px;
+  height: 25px;
+}
+.login-wrapper {
+  position: absolute;
+  top: 517px;
+  left: 954px;
+  width: 54px;
+  height: 17px;
+}
+.register {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

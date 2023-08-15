@@ -1,0 +1,269 @@
+.group-child,
+.respon-ketertarikan-child {
+  position: absolute;
+  top: 650px;
+  left: 826px;
+  width: 177px;
+  height: 62px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-700);
+  border: 2px solid var(--color-skyblue);
+  box-sizing: border-box;
+  width: 159px;
+}
+.kirim {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  font-weight: 800;
+  display: inline-block;
+  width: 108.41px;
+  height: 39px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 748px;
+  left: 822px;
+  width: 159px;
+  height: 62px;
+  color: var(--color-black);
+}
+.respon-ketertarikan1 {
+  position: absolute;
+  top: 122px;
+  left: 338px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 559px;
+  height: 39px;
+}
+.speech-bubble-1-icon {
+  position: absolute;
+  top: 44px;
+  left: 921px;
+  width: 218px;
+  height: 195px;
+  object-fit: cover;
+}
+.isi-dulu-yaa {
+  margin: 0;
+}
+.isi-dulu-yaa-container {
+  position: absolute;
+  top: 104px;
+  left: 953px;
+  font-weight: 600;
+  display: inline-block;
+  width: 222px;
+  height: 39px;
+}
+.nama-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 220.08px;
+  height: 71.36px;
+}
+.nama1 {
+  position: absolute;
+  top: 18.07px;
+  left: 76.11px;
+  font-weight: 600;
+  display: inline-block;
+  width: 110.04px;
+  height: 35.23px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 513.52px;
+  height: 71.36px;
+}
+.nama-lengkap {
+  position: absolute;
+  top: 18.07px;
+  left: 39.43px;
+  font-weight: 600;
+  display: inline-block;
+  width: 265.01px;
+  height: 35.23px;
+}
+.nama,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  height: 71.36px;
+}
+.rectangle-group {
+  left: 265.93px;
+  width: 513.52px;
+  color: var(--color-silver-100);
+}
+.nama {
+  left: 0;
+  width: 779.44px;
+}
+.agorindustri,
+.keperawatan,
+.manajemen-informatika,
+.teknik-pemeliharaan-mesin {
+  position: absolute;
+  top: 0;
+  left: 43.1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 162.31px;
+  height: 35.23px;
+}
+.agorindustri,
+.keperawatan,
+.teknik-pemeliharaan-mesin {
+  top: 0.9px;
+  left: 199.9px;
+  width: 121.96px;
+}
+.agorindustri,
+.keperawatan {
+  top: 9.03px;
+  left: 370.46px;
+}
+.keperawatan {
+  top: 5.42px;
+  left: 528.19px;
+}
+.jurusan-child {
+  top: 6.32px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan-child,
+.jurusan-inner,
+.jurusan-item,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  width: 32.09px;
+  height: 25.29px;
+}
+.jurusan-item {
+  top: 6.32px;
+  left: 156.81px;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan-inner,
+.rectangle-div {
+  top: 9.03px;
+  left: 327.37px;
+}
+.rectangle-div {
+  top: 3.61px;
+  left: 485.09px;
+  background-color: var(--color-gainsboro-100);
+}
+.jurusan {
+  position: absolute;
+  top: 21.68px;
+  left: 288.85px;
+  width: 650.15px;
+  height: 44.26px;
+}
+.ketertarikan-jurusan {
+  position: absolute;
+  top: 9.94px;
+  left: 17.42px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  text-align: center;
+  display: inline-block;
+  width: 185.23px;
+  height: 35.23px;
+}
+.ketjurusan {
+  position: absolute;
+  top: 263.76px;
+  left: 0;
+  width: 939px;
+  height: 71.36px;
+  font-size: var(--font-size-mini);
+  color: var(--color-silver-100);
+}
+.rate-item {
+  top: 14.45px;
+  left: 288.85px;
+  width: 267.76px;
+  height: 42.45px;
+}
+.rate,
+.rate-item,
+.rating {
+  position: absolute;
+}
+.rating {
+  top: 21.68px;
+  left: 17.42px;
+  font-weight: 600;
+  display: inline-block;
+  width: 185.23px;
+  height: 35.23px;
+}
+.rate {
+  top: 395.64px;
+  left: 2.75px;
+  width: 556.61px;
+  height: 71.36px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.asal-kota1 {
+  position: absolute;
+  top: 18.07px;
+  left: 44.02px;
+  font-weight: 600;
+  display: inline-block;
+  width: 174.23px;
+  height: 35.23px;
+}
+.asal-kota {
+  position: absolute;
+  top: 131.88px;
+  left: 0;
+  width: 779.44px;
+  height: 71.36px;
+}
+.image-1-icon,
+.resp {
+  position: absolute;
+  top: 218px;
+  left: 163px;
+  width: 939px;
+  height: 467px;
+}
+.image-1-icon {
+  top: 42px;
+  left: 57px;
+  width: 124px;
+  height: 124px;
+  object-fit: cover;
+}
+.respon-ketertarikan {
+  position: relative;
+  background-color: var(--color-midnightblue);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}

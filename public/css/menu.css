@@ -1,0 +1,306 @@
+.politeknik-subang-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1394.52px;
+    height: 900px;
+    object-fit: cover;
+    opacity: 0.2;
+}
+
+.image-1-icon1 {
+    position: absolute;
+    top: 55px;
+    left: 609px;
+    width: 81px;
+    height: 81px;
+    object-fit: cover;
+}
+
+.politeknik-negeri-subang {
+    margin: 0;
+}
+
+.virtual-tour-360-container {
+    position: absolute;
+    top: 158px;
+    left: 420px;
+    font-size: var(--font-size-21xl);
+    font-weight: 600;
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 696px;
+    height: 143px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.menu-child {
+    position: absolute;
+    top: 1128px;
+    left: 1222px;
+    background-color: var(--color-midnightblue);
+    width: 1280px;
+    height: 182px;
+}
+
+.indonesia-map-png-1-icon1 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    width: 1349px;
+    height: 506px;
+    object-fit: cover;
+}
+
+.component-1,
+.kategori-child {
+    position: absolute;
+    top: 269px;
+    left: -25px;
+    width: 1349px;
+    height: 494px;
+}
+
+.kategori-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-midnightblue);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    width: 206px;
+    height: 387px;
+}
+
+.kategori-panorama {
+    position: absolute;
+    top: 15px;
+    left: 12px;
+    font-weight: 600;
+    display: inline-block;
+    width: 181.01px;
+    height: 84.9px;
+}
+
+.button-child {
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    background-color: var(--color-gainsboro-100);
+    width: 127px;
+    height: 53px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    /* Efek bayangan */
+    animation: glowing-border 2s infinite;
+    border: 4px solid rgba(110, 151, 255, 0.4);
+    /* Add initial border */
+    transition: border-color 0.3s;
+    /* Add transition for smooth color change */
+}
+
+@keyframes glowing-border {
+    0% {
+        border-color: rgba(110, 151, 255, 0.4);
+    }
+
+    50% {
+        border-color: rgba(0, 0, 0, 0.8);
+    }
+
+    100% {
+        border-color: rgba(110, 151, 255, 0.4);
+    }
+}
+
+
+.button-child:hover {
+    background-color: rgb(0, 60, 255);
+    transform: translateY(-2px);
+    /* Mengangkat tombol sedikit ke atas */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    /* Efek bayangan saat dihover */
+}
+
+
+.button,
+.button1,
+.button-child,
+.go {
+    position: absolute;
+}
+
+.go {
+    top: 2px;
+    left: 33px;
+    font-weight: 600;
+    animation: floatingAnimation 5s ease-in-out infinite;
+}
+
+.button {
+    top: 289px;
+    left: 39px;
+    width: 127px;
+    height: 53px;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-400);
+}
+
+.button1 {
+    top: 289px;
+    left: 40px;
+    width: 127px;
+    height: 53px;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-400);
+}
+
+.whatsapp-image-2023-05-19-at-1 {
+    position: absolute;
+    top: 117px;
+    left: 23px;
+    border-radius: var(--br-xl);
+    width: 160px;
+    height: 154px;
+    object-fit: cover;
+}
+
+.sound6972-removebg-preview-1-icon {
+    position: absolute;
+    top: 670px;
+    right: 195px;
+    width: 27px;
+    height: 36px;
+    object-fit: cover;
+    animation: floating-icon 4s ease-in-out infinite;
+}
+
+@keyframes floating-icon {
+
+    0%,
+    100% {
+        transform: translate(0, 0);
+        /* Initial and final position */
+    }
+
+    50% {
+        transform: translate(0, -10px);
+        /* Floating position */
+    }
+}
+
+
+.img-0011-icon {
+    position: absolute;
+    top: 280px;
+    left: 888px;
+    width: 351px;
+    height: 600px;
+    object-fit: cover;
+    animation: floating-icon 4s ease-in-out infinite;
+}
+
+@keyframes floating-icon {
+
+    0%,
+    100% {
+        transform: translate(0, 0);
+        /* Initial and final position */
+    }
+
+    50% {
+        transform: translate(0, -10px);
+        /* Floating position */
+    }
+}
+
+.bubble {
+    position: absolute;
+    top: 350px;
+    /* Adjust the top position as needed */
+    left: 1100px;
+    /* Adjust the left position as needed */
+    background-color: #6e97ff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: white;
+    opacity: 0;
+    /* Initially hidden */
+    transition: opacity 0.3s ease;
+}
+
+.img-0011-icon:focus+.bubble {
+    opacity: 1;
+    /* Show bubble when the image is clicked and audio starts playing */
+}
+
+
+.kategori {
+    position: absolute;
+    top: 326px;
+    left: 400px;
+    width: 206px;
+    height: 387px;
+}
+
+.minimap-panorama {
+    position: absolute;
+    top: 32px;
+    left: 12px;
+    font-weight: 600;
+    display: inline-block;
+    width: 181.01px;
+    height: 84.9px;
+}
+
+.image-10-icon {
+    position: absolute;
+    top: 117px;
+    left: 22px;
+    border-radius: var(--br-xl);
+    width: 160px;
+    height: 154px;
+    object-fit: cover;
+}
+
+
+
+.image-10-parent {
+    position: absolute;
+    top: 48px;
+    left: 27px;
+    width: 127px;
+    height: 53px;
+}
+
+.image-10-parent {
+    top: 241px;
+    left: 12px;
+    width: 165.94px;
+    height: 95.71px;
+    cursor: pointer;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-400);
+}
+
+.minimap {
+    position: absolute;
+    top: 326px;
+    left: 715px;
+    width: 206px;
+    height: 387px;
+}
+
+.menu {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 849px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+}

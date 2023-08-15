@@ -1,0 +1,169 @@
+.politeknik-subang-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1375px;
+  height: 900px;
+  object-fit: cover;
+  opacity: 0.2;
+}
+.indonesia-map-png-1-icon1 {
+  position: absolute;
+  top: 211px;
+  left: 0;
+  width: 1375px;
+  height: 536px;
+  object-fit: cover;
+}
+.image-4-icon,
+.placeholder-1-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 598px;
+  width: 81px;
+  height: 81px;
+  object-fit: cover;
+}
+.placeholder-1-icon1 {
+  top: 512px;
+  left: 344px;
+  width: 117px;
+  height: 116px;
+  cursor: pointer;
+}
+.virtual-tour-3601 {
+  margin: 0;
+}
+.virtual-tour-360-container1 {
+  position: absolute;
+  top: 140px;
+  left: 446px;
+  font-weight: 600;
+  display: inline-block;
+  width: 495px;
+  height: 143px;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+.bar-bawah-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 1407px;
+  height: 151px;
+}
+.image-3-icon1 {
+  position: absolute;
+  top: 40px;
+  left: 71px;
+  width: 82px;
+  height: 82px;
+  object-fit: cover;
+}
+.informasi-kontak1,
+.polsub1 {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.polsub1 {
+  top: 46px;
+  left: 132.48px;
+  font-size: var(--font-size-9xl);
+  width: 189.58px;
+  height: 35px;
+}
+.informasi-kontak1 {
+  top: 12px;
+  left: 417.99px;
+  width: 195.66px;
+  height: 20.74px;
+}
+.kampus-1-jl-container1,
+.politeknik-negeri-subang3 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.kampus-1-jl-container1 {
+  top: 33px;
+  left: 439.69px;
+  font-size: var(--font-size-5xs);
+  width: 287.8px;
+  height: 12px;
+}
+.politeknik-negeri-subang3 {
+  top: 78px;
+  left: 166.74px;
+  width: 241.83px;
+  height: 15.76px;
+}
+.manajemen-informatika6 {
+  text-decoration: underline;
+}
+.manajemen-informatika5 {
+  color: inherit;
+}
+.manajemen-informatika-agroindu-container1 {
+  top: 24px;
+  left: 752.61px;
+  width: 178.07px;
+  height: 11.62px;
+}
+.copyright-2023-container1,
+.manajemen-informatika-agroindu-container1,
+.pusat-penelitian-dan-container1 {
+  position: absolute;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.pusat-penelitian-dan-container1 {
+  top: 40px;
+  left: 923.91px;
+  text-decoration: underline;
+  width: 178.07px;
+  height: 11.62px;
+}
+.copyright-2023-container1 {
+  top: 118px;
+  left: 1129.07px;
+  width: 215.2px;
+  height: 12px;
+}
+.jurusan2,
+.pusat1 {
+  position: absolute;
+  top: 12px;
+  left: 690.94px;
+  display: inline-block;
+  text-align: center;
+  width: 195.66px;
+  height: 20.74px;
+}
+.pusat1 {
+  left: 906.78px;
+  width: 83.96px;
+  height: 21px;
+}
+.bar-bawah1 {
+  position: absolute;
+  top: 749px;
+  left: -32px;
+  width: 1407px;
+  height: 151px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.awal {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

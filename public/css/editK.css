@@ -1,0 +1,380 @@
+.samping-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-dimgray);
+    width: 298px;
+    height: 1043px;
+}
+
+.kelola-minimap3 {
+    margin: 0;
+}
+
+.kelola-minimap2 {
+    position: absolute;
+    top: 3px;
+    left: 49px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.location-1-icon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.kkategori-item,
+.kminimap1 {
+    position: absolute;
+    top: 270px;
+    left: 89px;
+    width: 297px;
+    height: 42px;
+}
+
+.kkategori-item {
+    top: 2px;
+    left: 0;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 260px;
+    height: 51px;
+}
+
+.kelola-kategori-panorama-container1 {
+    position: absolute;
+    top: 0;
+    left: 69px;
+    display: inline-block;
+    width: 152px;
+    height: 35.32px;
+}
+
+.school-1-icon1 {
+    position: absolute;
+    top: 1.81px;
+    left: 20px;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.kkategori1 {
+    position: absolute;
+    top: 334px;
+    left: 69px;
+    width: 260px;
+    height: 53px;
+}
+
+.kelola-respon-ketertarikan1 {
+    position: absolute;
+    top: 0;
+    left: 49px;
+    display: inline-block;
+    width: 135px;
+    height: 39px;
+}
+
+.registration-form-1-icon1 {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 38px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.dashboard3,
+.krespon1 {
+    position: absolute;
+    top: 414px;
+    left: 89px;
+    width: 184px;
+    height: 43px;
+}
+
+.dashboard3 {
+    top: 0;
+    left: 48px;
+    display: inline-block;
+    width: 157.47px;
+    height: 32.95px;
+}
+
+.dashboard2,
+.kelola-user2 {
+    position: absolute;
+    top: 126px;
+    left: 89px;
+    width: 205.47px;
+    height: 32.95px;
+}
+
+.kelola-user2 {
+    top: 4px;
+    left: 49px;
+    display: inline-block;
+    width: 207.32px;
+    height: 31.11px;
+}
+
+.users-1-icon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 32px;
+    object-fit: cover;
+}
+
+.kuser1 {
+    position: absolute;
+    top: 199px;
+    left: 89px;
+    width: 256.32px;
+    height: 35.11px;
+}
+
+.back-item {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    width: 204px;
+    height: 48px;
+}
+
+.back-item,
+.back2,
+.back3 {
+    position: absolute;
+}
+
+.back3 {
+    top: 8px;
+    left: 81px;
+    font-weight: 600;
+    display: inline-block;
+    width: 97.9px;
+    height: 43px;
+}
+
+.back2 {
+    top: 515px;
+    left: 69px;
+    width: 204px;
+    height: 51px;
+    color: var(--color-gray-100);
+}
+
+.samping1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 386px;
+    height: 1043px;
+    font-size: var(--font-size-lg);
+}
+
+.edit-kategori-panorama {
+    position: absolute;
+    top: 107px;
+    left: 368px;
+    font-size: var(--font-size-4xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 361px;
+    height: 39px;
+}
+
+.edit-kategori-child {
+    position: absolute;
+    top: 624px;
+    left: 345px;
+    width: 427px;
+    height: 58px;
+    cursor: pointer;
+}
+
+.ubah-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    width: 431px;
+    height: 46px;
+}
+
+.ubah-child,
+.ubah1,
+.ubah2 {
+    position: absolute;
+}
+
+.ubah2 {
+    top: 3px;
+    left: 166.55px;
+    font-weight: 600;
+    display: inline-block;
+    width: 97.9px;
+    height: 43px;
+}
+
+.ubah1 {
+    top: 552px;
+    left: 368px;
+    width: 431px;
+    height: 46px;
+    font-size: var(--font-size-9xl);
+    color: var(--color-gray-100);
+}
+
+.upload-your-file {
+    position: absolute;
+    top: 414px;
+    left: 384px;
+    color: var(--color-gray-1200);
+    display: inline-block;
+    width: 284px;
+    height: 39px;
+}
+
+.id-foto-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    background-color: var(--color-lightgray);
+    width: 431px;
+    height: 53px;
+}
+
+.k001 {
+    top: 10px;
+    left: 26px;
+    display: inline-block;
+    width: 320px;
+    height: 33px;
+}
+
+.id-foto2,
+.k001,
+.mi {
+    position: absolute;
+}
+
+.id-foto2 {
+    top: 0;
+    left: 0;
+    width: 431px;
+    height: 53px;
+    color: var(--color-gray-1100);
+}
+
+.mi {
+    top: 8px;
+    left: 29px;
+    display: inline-block;
+    width: 56px;
+    height: 58px;
+}
+
+.gedung3,
+.lab-ui {
+    position: absolute;
+    top: 69px;
+    left: 0;
+    width: 431px;
+    height: 66px;
+}
+
+.lab-ui {
+    top: 9px;
+    left: 27px;
+    display: inline-block;
+    width: 157px;
+    height: 58px;
+}
+
+.ruangan1,
+.upfoto-inner {
+    position: absolute;
+    top: 139px;
+    left: 0;
+    width: 431px;
+    height: 67px;
+}
+
+.upfoto-inner {
+    top: 0;
+    border-radius: var(--br-41xl);
+    background-color: var(--color-silver-600);
+    width: 199px;
+    height: 53px;
+}
+
+.choose-file {
+    position: absolute;
+    top: 6px;
+    left: 26px;
+    display: inline-block;
+    width: 157px;
+    height: 58px;
+}
+
+.form1,
+.upfoto1 {
+    position: absolute;
+    top: 261px;
+    left: 0;
+    width: 431px;
+    height: 64px;
+}
+
+.form1 {
+    top: 200px;
+    left: 368px;
+    height: 325px;
+    color: var(--color-black);
+}
+
+.data-kategori-panorama,
+.labuijpg {
+    position: absolute;
+    display: inline-block;
+}
+
+.data-kategori-panorama {
+    top: 146px;
+    left: 345px;
+    font-size: var(--font-size-3xl);
+    font-weight: 500;
+    text-align: center;
+    width: 323px;
+    height: 48px;
+}
+
+.labuijpg {
+    top: 474px;
+    left: 584px;
+    color: #0909ff;
+    width: 124px;
+    height: 37px;
+}
+
+.edit-kategori {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-poppins);
+}

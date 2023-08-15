@@ -1,0 +1,273 @@
+.tabel {
+    position: absolute;
+    top: 157px;
+    left: 376px;
+    width: 709px;
+    height: 615px;
+    font-size: var(--font-size-6xl);
+}
+
+.kelola-kategori-panorama {
+    margin: 0;
+}
+
+.kelola-kategori-panorama2 {
+    margin: 0;
+}
+
+.kelola-kategori-panorama2:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+
+.kelola-kategori-panorama-container2 {
+    position: absolute;
+    top: 87px;
+    left: 345px;
+    font-weight: 600;
+    display: inline-block;
+    width: 414px;
+    height: 39px;
+}
+
+.tabel,
+.tabel-child,
+.tabel-item {
+    position: absolute;
+    width: 648px;
+}
+
+.tabel-item {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+    background-color: var(--color-midnightblue);
+    height: 76px;
+}
+
+.tabel {
+    top: 143px;
+    left: 336px;
+    height: 462px;
+}
+
+.kategoriadmin-child {
+    position: absolute;
+    top: 251px;
+    left: 32px;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 378px;
+    height: 89px;
+}
+
+.samping-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-dimgray);
+    width: 298px;
+    height: 1043px;
+}
+
+.kelola-minimap4 {
+    position: absolute;
+    top: 3px;
+    left: 49px;
+    display: inline-block;
+    width: 248px;
+    height: 39px;
+}
+
+.location-1-icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 38px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.kkategori-inner,
+.kminimap2 {
+    position: absolute;
+    top: 188px;
+    left: 89px;
+    width: 297px;
+    height: 42px;
+}
+
+.kkategori-inner {
+    top: 2px;
+    left: 0;
+    border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+    background-color: var(--color-gray-100);
+    width: 260px;
+    height: 51px;
+}
+
+.kelola-kategori-panorama-container3 {
+    position: absolute;
+    top: 0;
+    left: 62px;
+    display: inline-block;
+    width: 152px;
+    height: 35.32px;
+}
+
+.school-1-icon2 {
+    position: absolute;
+    top: 1.81px;
+    left: 13px;
+    width: 38px;
+    height: 46.19px;
+    object-fit: cover;
+}
+
+.kkategori2 {
+    position: absolute;
+    top: 251px;
+    left: 89px;
+    width: 260px;
+    height: 53px;
+}
+
+.dashboard4,
+.dashboard5 {
+    position: absolute;
+    height: 32.95px;
+}
+
+.dashboard5 {
+    top: 0;
+    left: 48px;
+    display: inline-block;
+    width: 157.47px;
+}
+
+.dashboard5:hover {
+    color: rgb(134, 175, 251);
+    font-weight: bold;
+    /* Bobot font saat dihover */
+    /* Warna teks saat dihover */
+}
+
+
+.dashboard4 {
+    top: 126px;
+    left: 89px;
+    width: 205.47px;
+}
+
+.back-inner {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-41xl);
+    width: 160px;
+    height: 41.41px;
+}
+
+.back-inner,
+.back4,
+.back5 {
+    position: absolute;
+}
+
+.back5 {
+    top: 6.9px;
+    left: 63.53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 76.79px;
+    height: 37.1px;
+}
+
+.back4 {
+    top: 340px;
+    left: 89px;
+    width: 160px;
+    height: 44px;
+    color: var(--color-gray-100);
+}
+
+.tambah-foto {
+    position: absolute;
+    top: 7px;
+    left: 20px;
+    font-weight: 600;
+    display: inline-block;
+    width: 140px;
+    height: 28px;
+}
+
+.tambah {
+    position: absolute;
+    top: 177px;
+    left: 1026px;
+    width: 160px;
+    height: 41.41px;
+    color: var(--color-gray-100);
+}
+
+.samping2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1186px;
+    height: 1043px;
+    font-size: var(--font-size-lg);
+}
+
+.kategoriadmin-inner,
+.kategoriadmin-item {
+    position: absolute;
+    top: 143px;
+    left: 336px;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-gainsboro-200);
+    width: 648px;
+    height: 442px;
+}
+
+.kategoriadmin-inner {
+    border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+    background-color: var(--color-midnightblue);
+    height: 56px;
+}
+
+.kategoriadmin-child1,
+.kategoriadmin-child2,
+.kategoriadmin-child3 {
+    position: absolute;
+    top: 515px;
+    left: 322px;
+    background-color: var(--color-gray-1000);
+    width: 662px;
+    height: 70px;
+}
+
+.kategoriadmin-child2,
+.kategoriadmin-child3 {
+    top: 362px;
+    left: 329px;
+}
+
+.kategoriadmin-child3 {
+    top: 209px;
+    left: 336px;
+}
+
+.kategoriadmin {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-4xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-poppins);
+}

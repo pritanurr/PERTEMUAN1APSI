@@ -1,0 +1,390 @@
+.samping-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 298px;
+  height: 983px;
+}
+
+.kelola-minimap {
+  position: absolute;
+  top: 3px;
+  left: 49px;
+  display: inline-block;
+  width: 248px;
+  height: 39px;
+}
+
+.kelola-minimap:hover {
+  color: rgb(134, 175, 251);
+  font-weight: bold;
+  /* Bobot font saat dihover */
+  /* Warna teks saat dihover */
+}
+
+.location-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 31px;
+  object-fit: cover;
+}
+
+.back1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.back1 a:hover {
+  text-decoration: underline;
+}
+
+.kminimap {
+  position: absolute;
+  top: 210px;
+  left: 89px;
+  width: 297px;
+  height: 42px;
+}
+
+.kelola-kategori-panorama {
+  margin: 0;
+}
+
+.kelola-kategori-panorama-container {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  display: inline-block;
+  width: 152px;
+  height: 35.32px;
+}
+
+.kelola-kategori-panorama-container:hover {
+  color: rgb(134, 175, 251);
+  font-weight: bold;
+  /* Bobot font saat dihover */
+  /* Warna teks saat dihover */
+}
+
+.school-1-icon {
+  position: absolute;
+  top: 1.81px;
+  left: 0;
+  width: 38px;
+  height: 46.19px;
+  object-fit: cover;
+}
+
+.kkategori {
+  position: absolute;
+  top: 274px;
+  left: 89px;
+  width: 201px;
+  height: 48px;
+}
+
+.kelola-respon-ketertarikan {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  display: inline-block;
+  width: 135px;
+  height: 39px;
+}
+
+.kelola-respon-ketertarikan:hover {
+  color: rgb(134, 175, 251);
+  font-weight: bold;
+  /* Bobot font saat dihover */
+  /* Warna teks saat dihover */
+}
+
+
+.registration-form-1-icon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 38px;
+  height: 37px;
+  object-fit: cover;
+}
+
+.dashboard1,
+.krespon {
+  position: absolute;
+  top: 354px;
+  left: 89px;
+  width: 184px;
+  height: 43px;
+}
+
+.dashboard1 {
+  top: 0;
+  left: 48px;
+  display: inline-block;
+  width: 157.47px;
+  height: 32.95px;
+}
+
+.dashboard1:hover {
+  color: rgb(134, 175, 251);
+  font-weight: bold;
+  /* Bobot font saat dihover */
+  /* Warna teks saat dihover */
+}
+
+.dashboard,
+.kuser-child {
+  position: absolute;
+  top: 66px;
+  left: 89px;
+  width: 205.47px;
+  height: 32.95px;
+}
+
+.kuser-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: var(--color-gray-100);
+  width: 260px;
+  height: 51px;
+}
+
+.kelola-user {
+  position: absolute;
+  top: 14px;
+  left: 72px;
+  display: inline-block;
+  width: 207.32px;
+  height: 31.11px;
+}
+
+.users-1-icon {
+  position: absolute;
+  top: 10px;
+  left: 23px;
+  width: 38px;
+  height: 32px;
+  object-fit: cover;
+}
+
+.kuser {
+  position: absolute;
+  top: 129px;
+  left: 66px;
+  width: 279.32px;
+  height: 51px;
+}
+
+.back-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 204px;
+  height: 48px;
+}
+
+.back,
+.back-child,
+.back1 {
+  position: absolute;
+}
+
+.back1 {
+  top: 8px;
+  left: 81px;
+  font-weight: 600;
+  display: inline-block;
+  width: 97.9px;
+  height: 43px;
+}
+
+.back {
+  top: 455px;
+  left: 69px;
+  width: 204px;
+  height: 51px;
+  color: var(--color-gray-100);
+}
+
+.edit-data-user,
+.samping {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 386px;
+  height: 983px;
+}
+
+.edit-data-user {
+  top: 107px;
+  left: 368px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 248px;
+  height: 39px;
+}
+
+.form-child,
+.form-child1,
+.form-child2,
+.form-child3,
+.form-inner,
+.form-item {
+  position: absolute;
+  top: 71px;
+  left: 14px;
+
+  width: 431px;
+  height: 53px;
+}
+
+.form-child1,
+.form-child2,
+.form-inner,
+.form-item {
+  top: 140px;
+}
+
+.form-child1,
+.form-child2,
+.form-inner {
+  top: 210px;
+}
+
+.form-child1,
+.form-child2 {
+  top: 277px;
+}
+
+.form-child2 {
+  top: 344px;
+}
+
+.form-child3 {
+  top: 10px;
+}
+
+.ice123gmailcom {
+  position: absolute;
+  top: 81px;
+  left: 40px;
+  color: var(--color-gray-1100);
+  display: inline-block;
+  width: 320px;
+  height: 33px;
+}
+
+.bekasi,
+.data-user,
+.ice,
+.ice1,
+.tahun {
+  position: absolute;
+  top: 148px;
+  left: 43px;
+  display: inline-block;
+  width: 56px;
+  height: 58px;
+}
+
+.bekasi,
+.data-user,
+.ice1,
+.tahun {
+  top: 219px;
+  left: 41px;
+  width: 157px;
+}
+
+.data-user,
+.ice1,
+.tahun {
+  top: 283px;
+  left: 40px;
+}
+
+.data-user,
+.ice1 {
+  top: 356px;
+  left: 43px;
+}
+
+.data-user {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  text-align: center;
+  width: 147px;
+  height: 48px;
+}
+
+.form {
+  position: absolute;
+  top: 159px;
+  left: 354px;
+  width: 445px;
+  height: 414px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+
+.edit-user-child {
+  position: absolute;
+  top: 624px;
+  left: 345px;
+  width: 427px;
+  height: 58px;
+  cursor: pointer;
+}
+
+.ubah-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 431px;
+  height: 46px;
+}
+
+.ubah,
+.ubah-child,
+.ubah1 {
+  position: absolute;
+}
+
+.ubah1 {
+  top: 3px;
+  left: 166.55px;
+  font-weight: 600;
+  display: inline-block;
+  width: 97.9px;
+  height: 43px;
+}
+
+.ubah {
+  top: 503px;
+  left: 368px;
+  width: 431px;
+  height: 46px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-100);
+}
+
+.edit-user {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-midnightblue);
+  font-family: var(--font-poppins);
+}

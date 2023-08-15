@@ -1,0 +1,177 @@
+.politeknik-subang-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1494px;
+  height: 1086px;
+  object-fit: cover;
+  opacity: 0.2;
+}
+.image-1-icon1,
+.indonesia-map-png-1-icon {
+  position: absolute;
+  top: 199px;
+  left: 0;
+  width: 1480px;
+  height: 597px;
+  object-fit: cover;
+}
+.image-1-icon1 {
+  top: 53px;
+  left: 720px;
+  width: 81px;
+  height: 81px;
+}
+.politeknik-negeri-subang {
+  margin: 0;
+}
+.virtual-tour-360-container {
+  position: absolute;
+  top: 155px;
+  left: 486px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 696px;
+  height: 143px;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+}
+.menu-child {
+  position: absolute;
+  top: 1128px;
+  left: 1222px;
+  background-color: var(--color-midnightblue);
+  width: 1280px;
+  height: 182px;
+}
+.pusat-penelitian-dan {
+  color: inherit;
+}
+.pusat-penelitian-dan-container {
+  position: absolute;
+  top: 401px;
+  left: 1222px;
+  font-size: var(--font-size-6xs);
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 162px;
+  height: 14px;
+}
+.kategori-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-midnightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 296px;
+  height: 351px;
+}
+.kategori-panorama {
+  position: absolute;
+  top: 25px;
+  left: 31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 228px;
+  height: 77px;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-gainsboro-100);
+  width: 218px;
+  height: 88px;
+}
+.frame-div,
+.go {
+  position: absolute;
+  width: 228px;
+}
+.go {
+  top: 9px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  height: 77px;
+}
+.frame-div {
+  top: 186px;
+  left: 31px;
+  height: 88px;
+  cursor: pointer;
+  color: var(--color-gray-400);
+}
+.kategori,
+.minimap-child {
+  position: absolute;
+  width: 296px;
+}
+.kategori {
+  top: 414px;
+  left: 302px;
+  height: 351px;
+  text-align: center;
+}
+.minimap-child {
+  top: 0;
+  left: 12px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-midnightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 350px;
+}
+.minimap-panorama {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 320px;
+  height: 77px;
+}
+.minimap-item {
+  top: 190px;
+  left: 51px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-gainsboro-100);
+  width: 218px;
+  height: 88px;
+}
+.go1,
+.minimap,
+.minimap-item {
+  position: absolute;
+}
+.go1 {
+  top: 200px;
+  left: 46px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 228px;
+  height: 77px;
+  cursor: pointer;
+}
+.minimap {
+  top: 415px;
+  left: 783px;
+  width: 320px;
+  height: 350px;
+  text-align: center;
+}
+.menu {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
